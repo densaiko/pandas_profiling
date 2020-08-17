@@ -17,4 +17,5 @@ Second, import pandas profiling library
 
 Finally, run our dataframe using pandas profiling
 > profile_report = df.profile_report(explorative=True, html={'style': {'full_width': True}})
+
 > profile_report
