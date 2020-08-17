@@ -10,7 +10,7 @@ There are several things that we can have from pandas profiling such as:
 
 # How to Install Pandas Profiling
 First, install the library in this command
-pip install pandas-profiling
+*pip install pandas-profiling*
 
 Second, import pandas profiling library
 from pandas_profiling import ProfileReport
