@@ -9,12 +9,12 @@ There are several things that we can have from pandas profiling such as:
 - **Missing Values:** count, Heatmap of missing values
 
 # How to Install Pandas Profiling
-First, install the library in this command \n
-*pip install pandas-profiling*
+First, install the library in this command
+- *pip install pandas-profiling*
 
 Second, import pandas profiling library
-from pandas_profiling import ProfileReport
+- *from pandas_profiling import ProfileReport
 
 Finally, run our dataframe using pandas profiling
-profile_report = df.profile_report(explorative=True, html={'style': {'full_width': True}})
-profile_report
+- *profile_report = df.profile_report(explorative=True, html={'style': {'full_width': True}})
+- *profile_report
