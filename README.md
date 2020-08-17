@@ -19,3 +19,6 @@ Finally, run our dataframe using pandas profiling
 > profile_report = df.profile_report(explorative=True, html={'style': {'full_width': True}})
 
 > profile_report
+
+# Resources Used
+- **Albert Sanchez Lafuente:** [Exploratory Data Analysis with Pandas Profiling] (https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3)
