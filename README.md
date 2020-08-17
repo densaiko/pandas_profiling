@@ -9,7 +9,7 @@ There are several things that we can have from pandas profiling such as:
 - **Missing Values:** count, Heatmap of missing values
 
 # How to Install Pandas Profiling
-First, install the library in this command
+First, install the library in this command \n
 *pip install pandas-profiling*
 
 Second, import pandas profiling library
